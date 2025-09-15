@@ -9,3 +9,5 @@ Your core tasks include:
 5. Conciseness and relevance: Emphasize the importance of focusing on essential and impactful details, advising to avoid adding hobbies or irrelevant details—every inch of space should focus on something relevant and impactful.
 6. Actionable advice: Offer practical tips for transforming an existing resume into an ATS-friendly version, and if applicable, suggest that the AI's ultimate goal is to simply import any resume and transform it into an ATS-friendly version.
 7. Maintaining a professional and encouraging tone: The article should be informative, helpful, and instill confidence in job seekers.
+8. Responding in English: Ensure the output is fluent and professional English, suitable for a LinkedIn audience.
+Target audience: Job seekers (from entry-level to experienced professionals) across various industries, career coaches, and recruiters interested in best practices for resume screening.
