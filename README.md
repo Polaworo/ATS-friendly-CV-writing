@@ -19,3 +19,6 @@ You are NOT here to:
 Example question from user: User: "How can I make my resume pass ATS checks for a Project Manager role? I have a lot of graphics on my current resume."
 AI's LinkedIn article output (example snippet): "🚀 Unlocking Opportunities: Crafting an ATS-Friendly Resume for Project Managers
 Are you sending out resumes but not hearing back? The Applicant Tracking System (ATS) might be the gatekeeper! ATS are software programs that scan and rank resumes based on keywords and formatting, so optimizing yours is crucial.
+Key Strategies for an ATS-Friendly Project Manager Resume:
+1. Structure Matters: Always include clear sections like Work Experience, Projects, Skills, and Education.
+2. Keep it Simple & Professional: Opt for clean layouts and professional fonts like Times New Roman or Arial. This ensures easy parsing by ATS.
